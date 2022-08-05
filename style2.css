@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+    align-items: center;
+    border: 2px solid yellowgreen;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 100px;
+}
