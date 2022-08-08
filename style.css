@@ -52,7 +52,8 @@ button{
 }
 
 .logo{
-    width: 500px;
+    width: 400px;
+    margin-top: 25px;
 }
 .rica{
     padding: 10px;
@@ -83,11 +84,12 @@ button{
 }
 
 .header{
-    border: 10px solid red;
+    border: 2.5px solid red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-radius: 20px;
     border-right: 0;
     border-left: 0;
+    background-color: black;
 }
 
 .oro{
@@ -139,19 +141,19 @@ button{
     color: yellowgreen;
 }
 .head2{
-    border: 5px solid red;
+    border: 2.5px solid red;
     border-radius: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
     
 }
 
 .seta{
-    width: 50px;
-    
+    width: 50px; 
 }
 .meta{
-    width: 100px;
-    border: 5px solid yellowgreen;
+    width: 110px;
+    border: 2.5px solid yellowgreen;
     background-color: black;
     border-radius: 50px;
     text-align: center;
@@ -159,3 +161,20 @@ button{
     cursor: pointer;
     color: yellow;
 }
+.cont{
+    display: inline;
+    text-align: center;
+    align-items: center;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+    background-color: gray;
+    font-family: Zen Dots,sans-serif;
+    font-size: 30px;
+    padding: 10px 10px;
+}
+.in{
+    text-decoration: none;
+    color: yellowgreen;
+}
+
