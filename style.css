@@ -128,14 +128,6 @@ button{
     font-family:Cinzel,sans-serif
 }
 
-.in{
-    width: 500px;
-    cursor: pointer;
-    color: black;
-    border: 5px solid yellowgreen;
-    border-radius: 50px;
-    background-color: white;
-}
 .h22{
     font-family: Cinzel,sans-serif;
     color: yellowgreen;
@@ -153,7 +145,7 @@ button{
 }
 .meta{
     width: 110px;
-    border: 2.5px solid yellowgreen;
+    border: 1.5px solid yellowgreen;
     background-color: black;
     border-radius: 50px;
     text-align: center;
@@ -175,6 +167,10 @@ button{
 }
 .in{
     text-decoration: none;
-    color: yellowgreen;
+    color: black;
+    width: 500px;
+    margin-right: 10px;
+    border: 1.5px solid yellowgreen;
+    border-radius: 50px;
 }
 
